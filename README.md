@@ -1,4 +1,4 @@
-- 👋 Olá, sou @rafaaazevedo
+- Olá 👋 
 
 
 <!---
