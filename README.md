@@ -1,6 +1,6 @@
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-5C57C0?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rafaaazvedo)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rafaaazvedo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafa-alvesdeazevedo/)](https://www.linkedin.com/in/rafa-alvesdeazevedo/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white)](ra.alvesdeazevedo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4A39?style=flat-square&logo=Gmail&logoColor=white)](ra.alvesdeazevedo@gmail.com)
 
 - Olá 👋 
 
