@@ -1,9 +1,10 @@
 - Olá 👋 
 
-Meu nome é Rafael e sou formado em Engenharia de Computação pela Universidade Federal de Pelotas (UFPel).
+Meu nome é Rafael, sou formado em Engenharia de Computação pela Universidade Federal de Pelotas (UFPel) e apaixonado por tecnologia.
 Atualmente estudo HTML, CSS e JavaScript.
 
-Contato
+**Contato**
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rafaaazvedo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafa-alvesdeazevedo/)](https://www.linkedin.com/in/rafa-alvesdeazevedo/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-DB4A39?style=flat-square&logo=Gmail&logoColor=white)](ra.alvesdeazevedo@gmail.com)
