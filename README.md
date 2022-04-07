@@ -1,7 +1,7 @@
 - Olá 👋 
 
 Meu nome é Rafael, sou formado em Engenharia de Computação pela Universidade Federal de Pelotas (UFPel) e gosto muito de tecnologia.
-Atualmente estudo ReactJS e Next.js.
+Atualmente estudo ReactJS.
 
 **Contato**
 
