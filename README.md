@@ -1,7 +1,7 @@
 - Olá 👋 
 
 Meu nome é Rafael, sou formado em Engenharia de Computação pela Universidade Federal de Pelotas (UFPel) e gosto muito de tecnologia.
-Atualmente me dedico a práticas voltadas ao desenvolvimento front-end.
+Atualmente estudo desenvolvimento front-end.
 
 **Contato**
 
